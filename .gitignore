@@ -1,0 +1,58 @@
+.env
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Cache files
+*.log
+*.sqlite3
+*.db
+*.cache/
+*.mo
+*.pot
+*.pyc
+*.pyo
+
+# Environment variables & configuration
+.env
+*.ini
+*.toml
+
+# Package dependencies
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.whl
+
+# VSCode settings & history
+.vscode/
+.history/
+
+# Testing and coverage reports
+.coverage
+.tox/
+.nosetests/
+pytest_cache/
+junit.xml
+
+# macOS files
+.DS_Store
+
+reports/
+
+chroma_db/

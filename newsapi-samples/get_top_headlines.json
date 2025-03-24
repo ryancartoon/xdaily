@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Segway recalls 220K scooters due to fall hazard that has resulted in 20 injuries",
+            "description": "Segway is recalling about 220,000 of its scooters sold across the U.S. due to a fall hazard that has resulted in user injuries ranging from bruises to broken bones",
+            "url": "https://abcnews.go.com/US/wireStory/segway-recalls-220000-scooters-due-fall-hazard-resulted-120077131",
+            "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+            "publishedAt": "2025-03-23T16:20:26Z",
+            "content": "NEW YORK -- Segway is recalling about 220,000 of its scooters sold across the U.S. due to a fall hazard that has resulted in user injuries ranging from bruises to broken bones.\r\nAccording to a notice\u2026 [+1266 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Bill Hutchinson",
+            "title": "6 hurt, 4 critically, in shooting at illegal Houston after-hours club: Police",
+            "description": "Police say a search is underway for two suspects who fled the scene in a Toyota.",
+            "url": "https://abcnews.go.com/US/6-hurt-4-critically-shooting-illegal-houston-after-hours-club-police/story?id=120071349",
+            "urlToImage": "https://i.abcnewsfe.com/a/4e18bdc1-767b-4cab-86b3-1225846bcab8/houston-club-shooting-ht-bh-250323_1742734902935_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2025-03-23T14:20:00Z",
+            "content": "Six people were wounded, four critically, when gunfire erupted early Sunday at a Houston nightclub that police allege was operating as an illegal after-hours bar.\r\nThe shooting unfolded outside Latin\u2026 [+1842 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Phoebe Natanson",
+            "title": "Pope Francis returns to Vatican after first appearance since Feb. 14 hospitalization",
+            "description": "Pope Francis, 88, could be seen in the front seat of a white Fiat 500.",
+            "url": "https://abcnews.go.com/International/pope-francis-expected-make-appearance-sunday/story?id=120070668",
+            "urlToImage": "https://i.abcnewsfe.com/a/9403830c-a776-4504-97ce-4efdd93a2386/pope-4-ap-gmh-250323_1742734484740_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2025-03-23T12:14:00Z",
+            "content": "ROME -- Pope Francis made his first public appearance on Sunday since being hospitalized in Rome more than five weeks ago.\r\nOfficials at Gemelli Hospital, where the 88-year-old pope has been undergoi\u2026 [+959 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Mary Kekatos",
+            "title": "Scientist speaks out after NIH terminates grants including study of LGBTQ+ teens' mental health",
+            "description": "NIH has been terminating grants relating to LGBTQ+ issues and DEI.",
+            "url": "https://abcnews.go.com/Health/scientist-speaks-after-nih-terminates-grants-including-study/story?id=120020702",
+            "urlToImage": "https://i.abcnewsfe.com/a/f3ded1c2-bda5-4ca5-9429-0f0c8d8a8513/nih-rt-er-250307_1741381630039_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2025-03-23T11:48:00Z",
+            "content": "A researcher who was one of many to have their grants terminated by the National Institutes of Health (NIH) is speaking out about how the halting of such research could have harmful effects.\r\nRecentl\u2026 [+5222 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Benjamin Siegel, Luke Barr",
+            "title": "IRS close to finalizing data-sharing agreement with ICE, sources say",
+            "description": "The IRS would be able to check names against its confidential databases.",
+            "url": "https://abcnews.go.com/Politics/irs-close-finalizing-data-sharing-agreement-ice-sources/story?id=120063278",
+            "urlToImage": "https://i.abcnewsfe.com/a/28c49d23-93f6-49e1-a56c-b667ba8e9001/irs-1-rt-gmh-250218_1739912069889_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2025-03-22T22:30:00Z",
+            "content": "The IRS is nearing a data-sharing agreement with U.S. Immigration and Customs Enforcement that would allow immigration officials to use tax data to support the Trump administration's deportation agen\u2026 [+1308 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Nadine El-Bawab, Victoria Arancio",
+            "title": "1 dead, 3 still missing after boat capsizes on Florida river",
+            "description": "The boat, which had flipped over, has been recovered and towed.",
+            "url": "https://abcnews.go.com/US/1-dead-3-missing-after-boat-capsizes-florida/story?id=120061301",
+            "urlToImage": "https://i.abcnewsfe.com/a/dd714b2c-027f-4bf6-b74c-ced006bbcd1d/boat-capsized-ht-jt-250322_1742670020861_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2025-03-22T19:48:00Z",
+            "content": "One person is dead and three others are still missing after a boat capsized on St. Johns River in Jacksonville, Florida.\r\nAfter searching for more than 17 hours \"by air and sea\" and covering more tha\u2026 [+1169 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Jon Haworth, Jessie DiMartino, Cristina Corujo",
+            "title": "New Mexico police investigating mass shooting in Las Cruces park",
+            "description": "Police have not released the number of victims or the extent of their injuries.",
+            "url": "https://abcnews.go.com/US/new-mexico-police-investigating-mass-shooting-las-cruces/story?id=120052341",
+            "urlToImage": "https://i.abcnewsfe.com/a/c76e1826-154b-439e-b8d2-c0cbc662f924/police-tape-cars-gty-jt-230510_1683751598051_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2025-03-22T10:42:48Z",
+            "content": "Police in New Mexico are investigating a mass shooting that occurred Friday night in Las Cruces, police said.\r\nThe shooting took place shortly after 10 p.m. on Friday and Las Cruces police and fire p\u2026 [+1001 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Mark Osborne",
+            "title": "George Foreman, heavyweight boxing champion, dies at 76",
+            "description": "The boxing champ won a gold medal at the 1968 Olympics.",
+            "url": "https://abcnews.go.com/Entertainment/boxing-heavyweight-champ-george-foreman-dies-76/story?id=120047569",
+            "urlToImage": "https://i.abcnewsfe.com/a/4b60abea-db03-415c-9a3e-38d473168b98/GettyImages-1252220135_1742609375294_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2025-03-22T02:46:00Z",
+            "content": "Former heavyweight boxing champion George Foreman, known as much for his gregarious personality as his vicious right hook, died Friday. He was 76 years old.\r\nA two-time heavyweight champion, he also \u2026 [+2470 chars]"
+        }
+    ]
+}
