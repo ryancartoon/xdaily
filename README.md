@@ -40,38 +40,19 @@ pip install -r requirements.txt
 
 ### 配置
 
-在 `config/settings.py` 中配置必要的 API 密钥：
+在 `.env` 中配置必要的 API 密钥：
 
 ```python
 NEWSAPI_KEY = "your_newsapi_key"
-LLM_API_KEY = "your_llm_api_key"
+DEEPSEEK_API_KEY = "your_llm_api_key"
 ```
 
 ### 命令行使用
 
 系统提供了完整的命令行工具，支持以下功能：
 
-1. **获取新闻**
-```bash
-python src/cli.py fetch --hours 24
-```
 
-2. **搜索新闻**
-```bash
-python src/cli.py search --query "人工智能" --hours 24
-```
-
-3. **查看最近新闻**
-```bash
-python src/cli.py recent --limit 10
-```
-
-4. **查看新闻详情**
-```bash
-python src/cli.py show --news-id "20240413_123456"
-```
-
-5. **分析新闻**
+**分析新闻**
 ```bash
 python src/cli.py analyze
 ```
@@ -94,20 +75,10 @@ CREATE TABLE news_articles (
   published_at TEXT,
   content TEXT,
   summary TEXT,
+  url Text,
   analysis_result TEXT,  -- JSON 格式，结构化分析结果
-  tags TEXT              -- JSON 格式数组
+  keywords TEXT              -- JSON 格式数组
 );
-```
-
-### 分析结果格式
-
-```json
-{
-    "keywords": ["关键词1", "关键词2", "关键词3"],
-    "entities": ["实体1", "实体2", "实体3"],
-    "sentiment": "情绪分析结果",
-    "impact": "影响分析"
-}
 ```
 
 ## 🛠️ 技术栈
